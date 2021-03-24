@@ -1,0 +1,26 @@
+_repo: Madame-d-Epone_64853
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brada
+    aliases:
+    - Puliga, Henriette Consuelo Sansom, contessa di
+    - Puliga, Henrietta de Quigini
+    birthdate: 1850
+    deathdate: 1938
+    gutenberg_agent_id: '46970'
+    url: http://www.gutenberg.org/2009/agents/46970
+    wikipedia: https://fr.wikipedia.org/wiki/Brada
+description: ''
+gutenberg_issued: '2021-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64853'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Madame d'Epone
+url: http://www.gutenberg.org/ebooks/64853
